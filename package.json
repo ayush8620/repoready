@@ -1,0 +1,11 @@
+{
+  "name": "repoready",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Score any GitHub repo for first-time-contributor readiness; Google Gemma 4 writes the fix plan, starter issues and a tailored CONTRIBUTING.md.",
+  "keywords": ["open-source", "hacktoberfest", "github-api", "maintainers", "contributing", "gemma", "gemma-4"],
+  "scripts": { "dev": "node server.js" },
+  "engines": { "node": ">=18" },
+  "author": "Ayush Yadav",
+  "license": "MIT"
+}
